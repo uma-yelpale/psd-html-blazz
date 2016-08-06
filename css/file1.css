@@ -1,0 +1,102 @@
+
+body{
+    background-color: #e7e7e7;
+}
+#headwrap img ,#section1 .dot img, #section2 .col-xs-12 img , #section3 .col-sm-6 img{
+	width: 100%;
+}
+#headwrap1 .navbar a:hover{
+	text-decoration: underline;
+	color: #1378e9;
+}
+#headwrap1 .navbar-header{
+	float: none;
+}
+#headwrap1 .navbar-default{
+	background-color: #e7e7e7;
+}
+#headwrap1 .navbar-collapse li a{
+	padding-left: 0px;
+	/*padding-top: 30px;*/
+	padding-right: 30px;
+}
+
+#headwrap1 .menulinks  {
+    margin-top: 30px;
+}
+
+#headwrap1 .socialIcons{
+   margin-top: 18px;
+}
+
+#headwrap1 .navbar-collapse {
+	border: none;
+} 
+
+
+
+
+#section1{
+	background-color: #585d60;
+	padding-top: 110px;
+	padding-bottom: 36px;
+	margin-top: 180px;
+	
+}
+#section1 .dot img{
+   padding-bottom: 125px;
+}
+#section1 .dot{
+	text-align: center;
+}
+
+#section4 .col-md-10 .input-group input,#section2 .col-md-10 .input-group button,
+#section5 .col-md-10 .input-group input,#section3 .col-md-10 .input-group button
+{
+	border: none;
+}
+#section4 .col-md-4 h4,#section5 .col-md-4 h4{
+	margin-bottom: 36px;
+	
+}
+#section2 .col-md-4 h3,#section3 .col-md-4 h3{
+    margin-top: 18px;
+    margin-bottom: 36px;
+}
+#section2 h2,#section3 h2{
+    margin-top: 36px;
+    margin-bottom: 36px;
+}
+#section2 .col-md-4 p,#section3 .col-md-4 p{
+	margin-bottom: 18px;
+}
+#section4 .col-md-12 .input-group input,button
+#section5 .col-md-12 .input-group input,button
+{	
+	margin-bottom: 18px;
+}
+#section4 .col-md-4 .col-sm-6 ul li,
+#section5 .col-md-4 .col-sm-6 ul li{
+	margin-bottom: 18px;
+}
+#section4 .col-md-4 .col-sm-6 ul li:first-child,
+#section5 .col-md-4 .col-sm-6 ul li:first-child
+{
+	margin-top: 18px;
+}
+#section4 .col-md-10 .input-group .first input,#section2 .col-md-10 .input-group .first button,
+#section5 .col-md-10 .input-group .first input,#section3 .col-md-10 .input-group .first button
+{
+	background-color: #ffffff;
+}
+#section3 .col-md-4 h6{
+	margin-top:36px; 
+	margin-bottom:36px;
+}
+#section3,#section4{
+	padding-top: 40px;
+}
+#section5{
+	padding-bottom: 150px;
+	padding-top: 40px;
+}

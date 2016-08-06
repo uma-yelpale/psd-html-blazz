@@ -1,0 +1,36 @@
+@media  screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media  screen and (max-width : 992px) {
+  
+}
+
+/* Small Devices, Tablets */
+@media  screen and (max-width : 768px) {
+#section2 .col-md-4,#section3 .col-md-4,
+#section4 .col-md-4,#section5 .col-md-4
+{
+   	margin-top: 36px;
+   	text-align: center;
+   }
+
+  #section2 h2,#section3 h2
+  {
+  	text-align: center;
+  } 
+}
+
+/* Extra Small Devices, Phones */ 
+@media  screen and (max-width : 480px) {
+  
+}
+
+/* Custom, iPhone Retina */ 
+@media  screen and (max-width : 320px) {
+
+	
+  }
+
+}
