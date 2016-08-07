@@ -2,7 +2,7 @@
 body{
     background-color: #e7e7e7;
 }
-#headwrap img ,#section1 .dot img, #section2 .col-xs-12 img , #section3 .col-sm-6 img{
+#headwrap img , #section2 .col-xs-12 img , #section3 .col-sm-6 img{
 	width: 100%;
 }
 #headwrap1 .navbar a:hover{
